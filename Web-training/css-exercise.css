@@ -1,0 +1,41 @@
+.container{
+    position: relative;
+    border-radius: 4px;
+}
+body{
+    background-color: rgb(223, 207, 207)
+}
+.btn{
+    position: absolute;
+    left: 48%;
+    top: 10px;
+    background-color: #66ccff;
+}
+.table{
+    left: 50%;
+    top: 50px;
+}
+img{
+    border-radius: 4px;
+    width: 75px;
+    height: 50px;
+}
+input{
+    border-radius: 4px;
+}
+.username{
+    color: #0da6f2;
+    font-weight: bold
+}
+.from{
+    color: #b0babf;
+}
+.comment{
+    position: absolute;
+    left: 33%;
+    top: 50px;
+    width: 500px;
+}
+.time{
+    margin-left: 150px;
+}
